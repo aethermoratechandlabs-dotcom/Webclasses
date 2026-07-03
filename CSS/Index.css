@@ -22,3 +22,68 @@ h1{
     padding:12px 35px;
 
 }
+/* Landing Section */
+
+.card{
+
+    transition:.3s;
+    border-radius:15px;
+
+}
+
+.card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.card h4{
+
+    color:#0d6efd;
+    margin-bottom:15px;
+
+}
+
+/* Footer */
+
+.footer{
+
+    background:#212529;
+    color:#fff;
+    padding:70px 0 20px;
+
+}
+
+.footer h3,
+.footer h5{
+
+    margin-bottom:20px;
+
+}
+
+.footer a{
+
+    color:#adb5bd;
+    text-decoration:none;
+    display:block;
+    margin-bottom:10px;
+
+}
+
+.footer a:hover{
+
+    color:#fff;
+
+}
+
+.footer hr{
+
+    border-color:#555;
+
+}
+
+.footer p{
+
+    color:#ced4da;
+
+}
